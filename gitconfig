@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = tamistoyota@gmail.com
+	name = tamarazoppellari
